@@ -22,8 +22,6 @@ Below are the screenshots from my activity:
 ![Completion Result](./Activity-1.0.5-Score.png)
 
 
-### 1.2.6 Check Your Understanding - Network Components Quizz
-![Completion Result](./NetworkComponents.png)
 
 ---
 [⬅️ Back to Module Index](./README.md)

@@ -55,6 +55,36 @@ The medium provides the channel over which the message travels from source to de
 2. **Glass or plastic fibers (Fiber-optic):** Data is encoded into pulses of light.
 3. **Wireless transmission:** Data is encoded via modulation of specific frequencies of electromagnetic waves.
 
+   # 1.3 Network Representations and Topologies
+
+## 1.3.1 Network Representations
+Network architects and administrators use symbols to represent the various devices and connections that make up a network. These diagrams allow them to see where components are located and how they are interconnected.
+
+### Key Connection Terminology
+* **Network Interface Card (NIC):** A NIC physically connects the end device to the network.
+* **Physical Port:** A connector or outlet on a networking device where the media connects to an end device or another networking device.
+* **Interface:** Specialized ports on a networking device that connect to individual networks. Because routers connect networks, the ports on a router are referred to as network interfaces.
+* *Note: The terms "port" and "interface" are often used interchangeably.*
+
+---
+
+## 1.3.2 Topology Diagrams
+Topology diagrams are mandatory documentation for anyone working with a network. They provide a visual map of how the network is connected. There are two primary types:
+
+### Physical Topology Diagrams
+These diagrams illustrate the **physical location** of intermediary devices and cable installation. They typically label specific rooms or locations where equipment is installed.
+
+
+### Logical Topology Diagrams
+These diagrams illustrate **devices, ports, and the addressing scheme** of the network. They show which end devices are connected to which intermediary devices and the type of media being used, regardless of their physical location.
+
+
+| Feature | Physical Topology | Logical Topology |
+| :--- | :--- | :--- |
+| **Focus** | Physical location and cabling | Data flow, ports, and IP addressing |
+| **Labels** | Room numbers, rack locations | Interface names (e.g., G0/1) and IP networks |
+| **Purpose** | Installation and maintenance | Configuration and troubleshooting |
+
 
 ---
 [⬅️ Back to Module Index](./README.md)

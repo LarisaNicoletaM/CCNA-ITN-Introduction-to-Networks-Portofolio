@@ -85,6 +85,43 @@ These diagrams illustrate **devices, ports, and the addressing scheme** of the n
 | **Labels** | Room numbers, rack locations | Interface names (e.g., G0/1) and IP networks |
 | **Purpose** | Installation and maintenance | Configuration and troubleshooting |
 
+## 1.4 Common Types of Networks
+
+### 1.4.1 Networks of Many Sizes
+Networks come in all sizes, ranging from simple networks consisting of two computers to networks connecting millions of devices.
+
+* **Small Home Networks:** Connect a few computers to each other and to the internet.
+* **Small Office and Home Office (SOHO) Networks:** Allow computers in a home office or a remote office to connect to a corporate network or access centralized, shared resources.
+* **Medium to Large Networks:** Such as those used by corporations and schools, can have many locations with hundreds or thousands of interconnected hosts.
+* **World Wide Networks:** The internet is a network of networks that connects hundreds of millions of computers world-wide.
+
+---
+
+## 1.4.2 LANs and WANs
+Network infrastructures vary greatly in terms of:
+* The size of the area covered.
+* The number of users connected.
+* The number and types of services available.
+
+###  Local Area Network (LAN)
+A LAN is a network infrastructure that provides access to users and end devices in a small geographical area.
+* Interconnects end devices in a limited area such as a home, school, office building, or campus.
+* Usually administered by a single organization or individual.
+* Provides high-speed bandwidth to internal end devices.
+
+###  Wide Area Network (WAN)
+A WAN is a network infrastructure that provides access to other networks over a wide geographical area.
+* Interconnects LANs over wide geographical areas such as between cities, states, provinces, nations, or continents.
+* Typically managed by multiple service providers.
+* Typically provides slower speed links between WANs.
+
+
+## 1.4.3 Intranets and Extranets
+* **Intranet:** A private connection of LANs and WANs that belongs to an organization. It is designed to be accessible only by the organization's members, employees, or others with authorization.
+* **Extranet:** Provides secure and safe access to individuals who work for a different organization but require access to the organization's data (e.g., vendors, customers, or partners).
+
+
+
 
 ---
 [⬅️ Back to Module Index](./README.md)
